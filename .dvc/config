@@ -1,0 +1,5 @@
+[core]
+    remote = mlteam
+    autostage = true
+['remote "mlteam"']
+    url = ssh://pascal05:/home/kamil.plucinski/example_dvc_cache

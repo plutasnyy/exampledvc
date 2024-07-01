@@ -1,0 +1,6 @@
+outs:
+- md5: 4b8d3fe70ad2986b690aeb7356092cba.dir
+  size: 219494285
+  nfiles: 18232
+  hash: md5
+  path: pubtabnet
